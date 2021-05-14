@@ -8,3 +8,7 @@ Day 02 - Tip calculator project: The code automatically calculates the total amo
 Day 03 - Treasure island Project: The code mimics the famous adventure books in which the person decides the future of the story by choosing which action to take.
 
 Day 04 - Rock, Paper and Scissors Project: A game of rock, paper and scissors against the computer.
+
+Day 05 - Password Generator Project: A software to generate easy or hard passwords.
+
+Day 06 - Escaping the Reeborg's Maze Project: https://reeborg.ca/reeborg.html
