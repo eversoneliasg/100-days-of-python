@@ -12,3 +12,5 @@ Day 04 - Rock, Paper and Scissors Project: A game of rock, paper and scissors ag
 Day 05 - Password Generator Project: A software to generate easy or hard passwords.
 
 Day 06 - Escaping the Reeborg's Maze Project: https://reeborg.ca/reeborg.html
+
+Day 07 - Hangman project
