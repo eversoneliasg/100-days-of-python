@@ -13,4 +13,6 @@ Day 05 - Password Generator Project: A software to generate easy or hard passwor
 
 Day 06 - Escaping the Reeborg's Maze Project: https://reeborg.ca/reeborg.html
 
-Day 07 - Hangman project
+Day 07 - Hangman Project: Challenge your vocabulary with this game.
+
+Day 08 - Ceaser Cipher Project: A software to encrypt and decrypt messages according to the Ceaser Cipher.
