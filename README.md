@@ -16,3 +16,7 @@ Day 06 - Escaping the Reeborg's Maze Project: https://reeborg.ca/reeborg.html
 Day 07 - Hangman Project: Challenge your vocabulary with this game.
 
 Day 08 - Ceaser Cipher Project: A software to encrypt and decrypt messages according to the Ceaser Cipher.
+
+Dya 09 - Silent Auction Program: The participantes won't know each other's bid until the end of the auction.
+
+
