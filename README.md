@@ -19,4 +19,6 @@ Day 08 - Ceaser Cipher Project: A software to encrypt and decrypt messages accor
 
 Dya 09 - Silent Auction Program: The participantes won't know each other's bid until the end of the auction.
 
+Day 10 - Calculator Program: We created a text based calculator.
+
 
