@@ -22,3 +22,5 @@ Dya 09 - Silent Auction Program: The participantes won't know each other's bid u
 Day 10 - Calculator Program: We created a text based calculator.
 
 Day 11 - The BlackJack Capstone Project: A virtual game of BlackJack.
+
+Day 12 - Guess a number Project: Try to guess which number has been chosen by the computer.
