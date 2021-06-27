@@ -92,10 +92,12 @@ def calculate_change(total_coins, money_needed, water_needed, beans_needed, milk
     if final_change == 0:
         resources_and_money(money_needed, water_needed, beans_needed, milk_needed)
         print("There is no change.")
+        print(f"Here is your ☕ Enjoy!")
         return False
     else:
         resources_and_money(money_needed, water_needed, beans_needed, milk_needed)
         print(f"Here is ${final_change} in change.")
+        print(f"Here is your ☕ Enjoy!")
         return False
 
 
@@ -111,5 +113,3 @@ out_of_service = False
 while not out_of_service:
     order = input("What would you like: espresso, latte or cappuccino? ").lower()
     out_of_service = ask_for_order(order)
-    if not out_of_service and order != "report":
-        print(f"Here is your {order} ☕ Enjoy!")
