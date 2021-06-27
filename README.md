@@ -28,3 +28,5 @@ Day 12 - Guess a number Project: Try to guess which number has been chosen by th
 Day 13 - Debugging material.
 
 Day 14 - Higher-Lower Game.
+
+Day 15 - Coffee Machine Project.
