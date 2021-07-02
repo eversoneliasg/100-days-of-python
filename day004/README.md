@@ -1,9 +1,19 @@
-Random: how to output random integers and floats.
+# Day 4
 
-Heads or Tails: a virtual coin toss program.
+## Random
 
-Lists: working with lists on Python.
+How to output random integers and floats.
 
-Banker Roulette: a program which will select a random name from a list of names. The person selected will have to pay for everybody's food bill.
+## Heads or Tails
 
-Rock, Paper and Scissors: a game of rock, paper and scissors against the computer.
+A virtual coin toss program.
+
+## Lists
+
+Working with lists on Python.
+
+## Banker Roulette
+A program which will select a random name from a list of names. The person selected will have to pay for everybody's food bill.
+
+## Rock, Paper and Scissors
+A game of rock, paper and scissors against the computer.

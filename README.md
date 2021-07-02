@@ -18,11 +18,20 @@ The code automatically calculates the total amount of a bill and divides it equa
 The code mimics the famous adventure books in which the person decides the future of the story by choosing which action to take.<br>
 **Lessons and exercises**: carnival ticket; leap year calculator; love calculator; odd or even calculator; pizzar order app.
 
-Day 04 - Rock, Paper and Scissors Project: A game of rock, paper and scissors against the computer.
+## Day 04 - Rock, paper and scissors project
 
-Day 05 - Password Generator Project: A software to generate easy or hard passwords.
+A game of rock, paper and scissors against the computer.<br>
+**Lessons and exercises**: randomization; lists; banker roulette; heads or tails.
 
-Day 06 - Escaping the Reeborg's Maze Project: https://reeborg.ca/reeborg.html
+## Day 05 - Password generator project
+
+A software to generate easy or hard passwords.<br>
+**Lessons and exercises**: for-loops with lists; for-loops with ranges.
+
+## Day 06 - Escaping the Reeborg's maze project
+
+Link: https://reeborg.ca/reeborg.html <br>
+**Lessons and exercises**:
 
 Day 07 - Hangman Project: Challenge your vocabulary with this game.
 
