@@ -4,6 +4,7 @@ from art import logo
 
 auction = {}
 
+
 def pick_winner(bidding_dictionary):
     highest_bid = 0
     winner = ""
@@ -14,6 +15,7 @@ def pick_winner(bidding_dictionary):
             highest_bid = bid_amount
             winner = bidder
     print(f"The winner is {winner} with a bid of ${highest_bid}")
+
 
 def bidders_bid ():
     bidder_name = input("What is your name? ")
@@ -26,6 +28,7 @@ def bidders_bid ():
     else:
         clear()
         pick_winner(auction)
+
 
 print(logo)
 
