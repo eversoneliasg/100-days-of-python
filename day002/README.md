@@ -1,9 +1,21 @@
-Mathematical Operations: doing math in Python.
+# Day 02
 
-Number manipulation and f strings: playing with numbers and handling f strings.
+## Mathematical Operations
 
-Primitive data types: learning data types.
+Doing math in Python.
 
-Type error, type checking and type conversion: learning about types.
+## Number manipulation and f strings
 
-Tip Calculator Project: an easy and fast way to calculate what each person must pay after the bill arrives.
+Playing with numbers and handling f strings.
+
+## Primitive data types
+
+Learning data types.
+
+## Type error, type checking and type conversion
+
+Learning about types.
+
+## Tip calculator project
+
+An easy and fast way to calculate what each person must pay after the bill arrives.

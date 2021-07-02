@@ -2,7 +2,7 @@ print(8 / 3)
 print(4 / 2)
 print(int(8 / 3))
 
-# Rouding number in Python is easy
+# Rounding number in Python is easy
 print(round(8 / 3))
 
 # We can go further and specify the amount of decimal places
@@ -20,7 +20,7 @@ score += 3
 print(score)
 
 # F strings: mixing strings and different data types
-print("Your score is " + str(score)) # This is not convenient if you have a lot of variables
+print("Your score is " + str(score))  # This is not convenient if you have a lot of variables
 height = 1.8
 isWinning = True
 print(f"Your score is {score}, your height is {height}, you are winning is {isWinning}")

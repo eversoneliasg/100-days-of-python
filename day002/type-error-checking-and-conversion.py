@@ -8,10 +8,10 @@ new_num_char = str(num_char)
 print("Your name has " + new_num_char + " characters.") # Everything here is string
 
 a = str(123)
-print(type(a)) # <class 'str'>
+print(type(a))  # <class 'str'>
 
 b = float(123)
-print(type(b)) # <class 'float'>
+print(type(b))  # <class 'float'>
 
-print(70 + float("100.5")) # This will output 170.5
-print(str(70) + str(100)) # This will output 70100
+print(70 + float("100.5"))  # This will output 170.5
+print(str(70) + str(100))  # This will output 70100
