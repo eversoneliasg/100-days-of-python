@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b1679ba-53af-4c1b-a6aa-b72af5c958e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day005/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day005/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day005/for-loop-with-ranges.py" beforeDir="false" afterPath="$PROJECT_DIR$/day005/for-loop-with-ranges.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day005/password-generator-project.py" beforeDir="false" afterPath="$PROJECT_DIR$/day005/password-generator-project.py" afterDir="false" />
-    </list>
+    <list default="true" id="0b1679ba-53af-4c1b-a6aa-b72af5c958e9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

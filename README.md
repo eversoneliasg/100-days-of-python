@@ -35,10 +35,12 @@ Link: https://reeborg.ca/reeborg.html <br>
 
 ## Day 07 - Hangman project
 
-Challenge your vocabulary with this game.<br>
-**Lessons and exercises**:
+Challenge your vocabulary with this game!<br>
 
-Day 08 - Ceaser Cipher Project: A software to encrypt and decrypt messages according to the Ceaser Cipher.
+## Day 08 - Ceaser cipher project
+
+A software to encrypt and decrypt messages according to the Ceaser Cipher.<br>
+**Lessons and exercises**: 
 
 Dya 09 - Silent Auction Program: The participantes won't know each other's bid until the end of the auction.
 
