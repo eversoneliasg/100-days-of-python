@@ -1,4 +1,8 @@
-Debugging: techniques to quickly be able to identify and remove bugs!
+# Day 13
+
+## Debugging
+
+Techniques to quickly be able to identify and remove bugs!
 
 1) Describe the problem: think about what the code should be doing.
 

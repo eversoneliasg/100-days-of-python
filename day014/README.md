@@ -1,4 +1,6 @@
-Higher-Lower Game
+# Day 14
+
+## Higher-Lower Game
 
 It should work as this game: http://www.higherlowergame.com/
 
