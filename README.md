@@ -81,7 +81,10 @@ Techniques to quickly be able to identify and remove bugs!
 ## Day 14 - Higher-Lower game
 
 It should work as this game: http://www.higherlowergame.com/ <br>
-In our case, we will compare famous accounts at Instagram.
+In our case, we will compare famous accounts at Instagram. <br>
+**Review*
 
 ## Day 15 - Coffee machine project
 
+This is a software designed to serve coffee, according to the resources available.<br>
+**Review**
