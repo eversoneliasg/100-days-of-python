@@ -3,6 +3,7 @@ from game_data import data
 from replit import clear
 import random
 
+
 def game():
     """Run the game."""
     # Declaring score and conditional variable
@@ -58,17 +59,20 @@ def game():
             print(logo)
             print(f"Sorry, that's wrong. Final score: {score}")
             continue_game = False
-    
+
+
 # Generate a number to select a celebrity from the list
 def pick_celebrity():
     """Pick an account from the data list."""
     selection = random.choice(data)
     return selection
 
+
 # Print the letter and the celebrity details
 def print_celebrity(letter, celebrity):
     """Format an account from the data list, so it can be printed."""
     print(f"Compare {letter}: {celebrity['name']}, {celebrity['description']} from {celebrity['country']}.")
+
 
 # Return the correct answer, so it can be compared with the user's
 def answer(choice, celebrity_A, celebrity_B):
@@ -81,10 +85,12 @@ def answer(choice, celebrity_A, celebrity_B):
         right_answer = choice
     return right_answer
 
+
 # Get the index to, later, remove the celebrity from the list
 def celebrity_index(celebrity):
     """Give us the index of the account picked from de list."""
     return data.index(celebrity)
+
 
 # Game start
 game()
