@@ -1,5 +1,13 @@
-Printing: how to print to the console in Python and how to manipulate strings.
+# Day 1
 
-Variables: declaring and operating variables.
+## Printing 
 
-Band Name Generator Project: An app to generate strange band names.
+How to **print** to the console in Python and how to manipulate strings.
+
+## Variables
+
+**Declaring** and **operating** variables.
+
+## Band Name Generator Project
+
+An app to generate strange band names.

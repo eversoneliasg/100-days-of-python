@@ -1,7 +1,11 @@
-Repository created to store the exercises and projects done during the "100 days of code - The complete Python Pro Bootcamp for 
-2021".
+# 100 days of code - The complete Python Pro Bootcamp for 2021
 
-Day 01 - Band name generator project: The program automatically generates the name of a band from the name of a city and a pet.
+**Description**: "Master Python by building 100 projects in 100 days. Learn to build websites, games, apps, plus scraping and data science". <br>
+**Link**: https://www.udemy.com/course/100-days-of-code/
+
+## Day 01 - Band name generator project
+
+The program automatically generates the name of a band from the name of a city and a pet.
 
 Day 02 - Tip calculator project: The code automatically calculates the total amount of a bill and divides it equally among the people.
 
