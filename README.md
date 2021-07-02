@@ -36,6 +36,7 @@ Link: https://reeborg.ca/reeborg.html <br>
 ## Day 07 - Hangman project
 
 Challenge your vocabulary with this game!<br>
+**Review**
 
 ## Day 08 - Ceaser cipher project
 
@@ -47,14 +48,20 @@ A software to encrypt and decrypt messages according to the Ceaser Cipher.<br>
 The participantes won't know each other's bid until the end of the auction.<br>
 **Lessons and exercises**: dictionaries; nesting; grading program.
 
-## Day 10 - Calculator Program
+## Day 10 - Calculator program
 
-We created a text based calculator.
+We created a text based calculator.<br>
 **Lessons and exercises**: functions with outputs/return; days in month exercise; docstrings. 
 
-Day 11 - The BlackJack Capstone Project: A virtual game of BlackJack.
+## Day 11 - The blackJack capstone project
 
-Day 12 - Guess a number Project: Try to guess which number has been chosen by the computer.
+A virtual game of BlackJack.<br>
+**Review**
+
+## Day 12 - Guess a number project
+
+Try to guess which number has been chosen by the computer.<br>
+**Lessons and exercises**: scopes; constant and global variables; namespace.
 
 Day 13 - Debugging material.
 

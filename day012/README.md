@@ -1,8 +1,16 @@
-Namespaces: Local vs. Global Scope
+# Day 12
 
-- Scope: are there scopes in Python?
+## Namespaces
 
-- Constants and modifying global scope.
+Local vs. Global Scope
 
-- Guess a number Project: Try to guess which number has been chosen by the computer.
+## Scope
+
+Are there scopes in Python?
+
+## Constants and modifying global scope.
+
+## Guess a number Project
+
+Try to guess which number has been chosen by the computer.
 Run "guess-a-number-project.py" in the same folder of "art.py".
