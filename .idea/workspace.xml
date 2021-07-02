@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b1679ba-53af-4c1b-a6aa-b72af5c958e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day002/Mathematical Operations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day002/Number Manipulation and F Strings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day002/Primitive Data Types.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day002/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day002/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day002/Tip Calculator Project.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day002/Type Error Checking and Conversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day003/Carnival Ticket.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day003/Leap Year Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day003/Love Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day003/Odd Or Even.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day003/Pizza Order App.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day003/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day003/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day003/Treasure Island Project.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

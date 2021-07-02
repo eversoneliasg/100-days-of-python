@@ -6,16 +6,17 @@
 ## Day 01 - Band name generator project
 
 The program automatically generates the name of a band from the name of a city and a pet.<br>
-**Lessons learned**: printing and declaring variables.
+**Lessons and exercises**: printing and declaring variables.
 
 ## Day 02 - Tip calculator project
 
 The code automatically calculates the total amount of a bill and divides it equally among the people.<br>
-**Lessons learned**: mathematical operations; number manipulation (rounding) and f strings; primitive data types; type error; type checking and conversion (casting).
+**Lessons and exercises**: mathematical operations; number manipulation (rounding) and f strings; primitive data types; type error; type checking and conversion (casting).
 
 ## Day 03 - Treasure island project
 
-The code mimics the famous adventure books in which the person decides the future of the story by choosing which action to take.
+The code mimics the famous adventure books in which the person decides the future of the story by choosing which action to take.<br>
+**Lessons and exercises**: carnival ticket; leap year calculator; love calculator; odd or even calculator; pizzar order app.
 
 Day 04 - Rock, Paper and Scissors Project: A game of rock, paper and scissors against the computer.
 
