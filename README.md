@@ -47,7 +47,10 @@ A software to encrypt and decrypt messages according to the Ceaser Cipher.<br>
 The participantes won't know each other's bid until the end of the auction.<br>
 **Lessons and exercises**: dictionaries; nesting; grading program.
 
-Day 10 - Calculator Program: We created a text based calculator.
+## Day 10 - Calculator Program
+
+We created a text based calculator.
+**Lessons and exercises**: functions with outputs/return; days in month exercise; docstrings. 
 
 Day 11 - The BlackJack Capstone Project: A virtual game of BlackJack.
 
