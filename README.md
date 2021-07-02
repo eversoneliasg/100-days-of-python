@@ -31,9 +31,12 @@ A software to generate easy or hard passwords.<br>
 ## Day 06 - Escaping the Reeborg's maze project
 
 Link: https://reeborg.ca/reeborg.html <br>
-**Lessons and exercises**:
+**Lessons and exercises**: functions, code Blocks and while-loops.
 
-Day 07 - Hangman Project: Challenge your vocabulary with this game.
+## Day 07 - Hangman project
+
+Challenge your vocabulary with this game.<br>
+**Lessons and exercises**:
 
 Day 08 - Ceaser Cipher Project: A software to encrypt and decrypt messages according to the Ceaser Cipher.
 
