@@ -40,7 +40,7 @@ Challenge your vocabulary with this game!<br>
 ## Day 08 - Ceaser cipher project
 
 A software to encrypt and decrypt messages according to the Ceaser Cipher.<br>
-**Lessons and exercises**: 
+**Lessons and exercises**: functions with inputs; positional vs. keyword arguments; area calculation; prime numbers checker.
 
 Dya 09 - Silent Auction Program: The participantes won't know each other's bid until the end of the auction.
 

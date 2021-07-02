@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b1679ba-53af-4c1b-a6aa-b72af5c958e9" name="Default Changelist" comment="" />
+    <list default="true" id="0b1679ba-53af-4c1b-a6aa-b72af5c958e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day008/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day008/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day008/prime-checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/day008/prime-checker.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
