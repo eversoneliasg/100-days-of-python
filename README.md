@@ -84,7 +84,12 @@ It should work as this game: http://www.higherlowergame.com/ <br>
 In our case, we will compare famous accounts at Instagram. <br>
 **Review*
 
-## Day 15 - Coffee machine project
+## Day 15 - Coffee machine project with Procedural Programming
 
 This is a software designed to serve coffee, according to the resources available.<br>
 **Review**
+
+## Day 16 - Coffee machine project with Object Oriented Programming (OOP)
+
+This is a remake of yesterday's project, but, this time, using OOP.<br>
+**Lessons and exercises**: OOP (classes and objects); packages.
