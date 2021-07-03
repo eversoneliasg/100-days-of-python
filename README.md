@@ -93,3 +93,8 @@ This is a software designed to serve coffee, according to the resources availabl
 
 This is a remake of yesterday's project, but, this time, using OOP.<br>
 **Lessons and exercises**: OOP (classes and objects); packages.
+
+## Day 17 - Quiz game project
+
+Today we will create a quiz game using OOP.<br>
+**Lessons and exercises**: How to create classes in Python (syntax, attributes, methods, pass keyword, constructor/initialization); PascalCase.
