@@ -98,3 +98,8 @@ This is a remake of yesterday's project, but, this time, using OOP.<br>
 
 Today we will create a quiz game using OOP.<br>
 **Lessons and exercises**: How to create classes in Python (syntax, attributes, methods, pass keyword, constructor/initialization); PascalCase.
+
+## Day 18 - Artwork project
+
+By the end of the day, we will have written code capable of generating great pieces of artwork!<br>
+**Lessons and exercises**: turtle graphics; tuples; importing modules; extracting colors from images.
