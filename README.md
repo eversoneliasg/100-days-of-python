@@ -103,3 +103,8 @@ Today we will create a quiz game using OOP.<br>
 
 By the end of the day, we will have written code capable of generating great pieces of artwork!<br>
 **Lessons and exercises**: turtle graphics; tuples; importing modules; extracting colors from images.
+
+## Day 19 - Turtle Games
+
+Using Turtle Graphics, we will make a lot of games.
+**Lessons and exercises**: more Turtle Graphics; event listeners; higher order functions; state and multiple instances.
